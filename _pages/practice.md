@@ -1,9 +1,10 @@
 ---
 title: "Practice"
-layout: practice
 permalink: /practice/
-author_profile: true
 ---
+
+<!-- layout: practice
+author_profile: true -->
 
 ### Practice
 
