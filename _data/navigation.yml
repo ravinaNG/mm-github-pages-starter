@@ -1,9 +1,9 @@
 main:
   - title: "School"
-    url: https://rootbridgeacademy.com/school/
+    url: /school/
   - title: "Practice"
-    url: https://rootbridgeacademy.com/practice/
+    url: /practice/
   - title: "Learning"
-    url: https://rootbridgeacademy.com/learning/
+    url: /learning/
   - title: "Team"
-    url: https://rootbridgeacademy.com/team/
+    url: /team/
