@@ -78,6 +78,9 @@ include:
 
 footer:
   links:
+      - label: "Original site of Rootbridge academy"
+        url: https://rootbridgeacademy.com/
+  
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
 #       url: "https://twitter.com/"
@@ -87,8 +90,6 @@ footer:
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
-      - label: "Original site of Rootbridge academy"
-        url: https://rootbridgeacademy.com/
 
 defaults:
   # _posts
