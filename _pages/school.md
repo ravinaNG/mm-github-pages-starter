@@ -1,9 +1,10 @@
 ---
 title: "School"
-permalink: /school/
-layout: school
-author_profile: true 
+permalink: /school/ 
 ---
+
+<!-- layout: school
+author_profile: true -->
 
 ### School
 
