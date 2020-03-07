@@ -91,29 +91,29 @@ footer:
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://instagram.com/"
 
-defaults:
-  # _posts
-  - scope:
-      path: "/school/"
-      type: School
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+# defaults:
+#   # _posts
+#   - scope:
+#       path: "/school/"
+#       type: School
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
+#   # _pages
+#   - scope:
+#       path: "_pages"
+#       type: pages
+#     values:
+#       layout: single
+#       author_profile: true
 
-category_archive:
-  type: Practice
-  path: /practice/
-tag_archive:
-  type: Learning
-  path: /learning/
+# category_archive:
+#   type: Practice
+#   path: /practice/
+# tag_archive:
+#   type: Learning
+#   path: /learning/
