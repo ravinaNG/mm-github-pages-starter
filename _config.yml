@@ -90,7 +90,7 @@ footer:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/school/"
       type: School
     values:
       layout: single
@@ -108,8 +108,8 @@ defaults:
       author_profile: true
 
 category_archive:
-  type: liquid
-  path: /Practice/
+  type: Practice
+  path: /practice/
 tag_archive:
-  type: liquid
-  path: /Learning/
+  type: Learning
+  path: /learning/
