@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "School"
+    url: https://rootbridgeacademy.com/school/
+  - title: "Practice"
+    url: https://rootbridgeacademy.com/practice/
+  - title: "Learning"
+    url: https://rootbridgeacademy.com/learning/
+  - title: "Team"
+    url: https://rootbridgeacademy.com/team/
