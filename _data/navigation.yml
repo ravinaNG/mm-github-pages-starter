@@ -8,4 +8,4 @@ main:
   - title: "Team"
     url: /team/
   - title: "Home"
-    url: /
+    url: /:categories/:title/
