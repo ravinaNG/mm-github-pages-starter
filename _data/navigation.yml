@@ -1,4 +1,6 @@
 main:
+  - title: "Home"
+    url: /:categories/:title/
   - title: "School"
     url: /school/
   - title: "Practice"
